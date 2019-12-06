@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+  }
+  
+  h1{
+    text-align: center;
+    color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  body{
+    background: #262626;
+  }
+  
+  .inputs{
+    text-align: center;
+    background: #bbb;
+    
+  }
+  
+  
+  
+  .myForm{
+    background: white;
+    height: 800px;
+    width: 300px;
+    margin: auto;
+    
+  }
+  
+  a:link {
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+    line-height: 24px;
+  }
+  
+  a:visited {
+    color: purple;
+  }
+  
+  
